@@ -1,3 +1,7 @@
+# SOMA
+*.log
+*.err
+
 # Arquillian
 derby.log
 
